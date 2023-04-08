@@ -101,3 +101,7 @@ h1 {
   .container:hover .middle {
     opacity: 1;
   }
+
+  a {
+    color: #FFFF;
+  }
