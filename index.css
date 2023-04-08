@@ -28,6 +28,13 @@
     padding-left: 2%;
   }
 
+  .designHeaders {
+    text-align: left;
+    color: #f9d977;
+    font-size: xx-large;
+    padding-left: 2%;
+  }
+
   [id^='characters_'] {
     width: 100%;
   }
@@ -58,6 +65,7 @@ h1 {
     text-align: center;
     color: #f9d977;
     font-size: 50px;
+    text-decoration-line: underline;
   }
 
   p {
